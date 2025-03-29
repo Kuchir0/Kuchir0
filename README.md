@@ -8,7 +8,7 @@ Bem-vindos ao meu espaço digital! Eu sou **_Vitor Luz_**, um entusiasta da tecn
 
 🎓 Cursando Analise e desenvolvimento de sistemas
 
-💻 Minha paixão por resolver problemas e criar coisas incríveis me levou ao fascinante mundo da codificação.
+💻 Minha paixão por resolver problemas e criar coisas incríveis me levou ao fascinante mundo da tecnologia.
 
 🌱 Estou sempre aprendendo e expandindo meus horizontes, buscando conhecimento em diversas áreas da computação.
 
